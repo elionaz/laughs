@@ -9,6 +9,6 @@ This will play this mp3: http://0.s3.envato.com/files/17833436/preview.mp3 every
 
 To remove it, just delete the afplay line in your crontab
 
-`crontab -e
+`crontab -e`
 
 Have fun :)
